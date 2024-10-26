@@ -1,0 +1,6 @@
+openscad -D "\$fn=90" -D build=1 -D buttons=0 -o Handheld-PicoRX-top-both.stl Handheld-PicoRX.scad
+openscad -D "\$fn=90" -D build=1 -D buttons=1 -o Handheld-PicoRX-top-left.stl Handheld-PicoRX.scad
+openscad -D "\$fn=90" -D build=1 -D buttons=2 -o Handheld-PicoRX-top-right.stl Handheld-PicoRX.scad
+openscad -D "\$fn=90" -D build=2 -o Handheld-PicoRX-middle.stl Handheld-PicoRX.scad
+openscad -D "\$fn=90" -D build=3 -o Handheld-PicoRX-bottom.stl Handheld-PicoRX.scad
+openscad -D "\$fn=90" -D build=4 -o Handheld-PicoRX-screen.stl Handheld-PicoRX.scad

@@ -1,7 +1,7 @@
 # Handheld-PicoRX
 3D models for making a handheld PicoRX on a 100x80mm PCB, Manhattan style.
 
-The STL files in Handheld-PicoRX.zip is under the CC BY-SA 4.0 liscens. The ZIP file also contains a copy of Build.md for offline reading.
+The STL files in Handheld-PicoRX.zip is under the CC BY-SA 4.0 license. The ZIP file also contains a copy of Build.md for offline reading.
 
 ## Building
 Read [Build.md](Build.md).
